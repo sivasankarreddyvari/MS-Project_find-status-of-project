@@ -38,3 +38,55 @@ Questions:
     
     
 Project Revisioin Request:
+A week later, Briar calls the team together to announce that, although the implant has been extensively tested by the FDA, the agency is now requiring quality testing with a sample of the initial Mock production model. This is to happen after the production batch is ready for delivery. Otto was not happy and had the legal staff file an official objection, but Octavius Technologies must comply. Peter Parker, FDA Lead Contact, did agree to work with Octavius to fast-track the testing. 
+
+Otto and Briar decided to up the production count from 25 to 30. This will not increase production time for vendors; however, the team, based upon learning curve data, projects an additional six days will be needed to assemble all 30 units. 
+
+Briar saved the big news for last. To allow for an initial FDA review, the new prjoect deadline is July 13, 2020, three weeks earlier.
+
+Discussions about possible adjustments ensued. Outsourcing design and development was dismissed given the proprietary nature of the project. Otto would not approve not would he agree to reducing the requirements. Marketing had  made promises in the pre-sales contracts approved by legal.
+
+The team began to identify options for accelerating the project. Hiring consultants to work internally is possible, but given the specialized nature of the project, this might be costly. Briar has $450,000 in contingency reserves of which he is willing to allocate $200,000 for crash costs, reserving the difference for potential problems during the project. Team memberes examined activities and determined the following possibilities:
+
+    Writing Installation instructions can be reduced from 23 days to 20 days at a total cose of $60,000
+    Low-fidelity Mock software interface testing can be reduced from 10 to 7 days at a total cose of $20,000
+    Create high-fidelity Mock interface prototype can be reduced from 10 to 5 days at a total cose of $80,000
+    Low-fidelity Mock-up software interface testing can be reduced from 9 to 7 days at a total cose of $15,000
+    Create high-fidelity Mock-up interface prototype can be reduced from 10 to o5 days at a total cose of $80,000
+    Mock enhancement development can be reduced from 30 to 24 days at a total cost of $120,000
+    Finalize initial board specifications can be reduced from 20 to 17 days at a total cose of $60,000
+    Mock-up software development can be reduced from 20 to 15 days at a total cose of $15,000
+    
+Carl Weiss, an electrical engineer, suggested use of start-to-start activity relationships with lag time instead of sequential activities. He suggested the following:
+    The Initial Board / Mock-up Security Testing could begin three days after the Initial BOard / Mock-up Communicationi Testing starts.
+    The Board/Mock-up Integration Testing can begin two days after the Initial Board/Mock-up Security Testing security testing begins.
+    The Revision Board / Mock-up Security Testing could begin three days after the Revision Board/Mock-up communication Testing starts.
+    The Revision Board/Mock-up Integration Testing can begin two days after the Revision Board/Mock-up Security Testing security testing begins.
+    
+Software engineer Sarah Haywood observed that Mock enhancement functional design could begin five days after analysis begins but that High-Fidelity Mock Software Interface Testing would have to complete.
+
+Briar asks that you consider the project schedule revision optionis in an effort to meet the June 7, 2019 deadline. Obviously, he is looking for the cheapest option.
+
+TASK B:
+MS Project:
+    Copy "Task A.mpp" to "Task B.mpp". Revise the MS project file so that is reflects the best options.
+    
+Questions:
+    1. Can the project be revised within the time and budget constraints?
+        1a. If so, what is the new deadline? What will it cost to make the changes necessary to meet the new deadline?
+        1b. If not, what is the full impact fo the suggested changes upon the projeect schedule and budget?
+    2. Identify the tasks, change in durationi and cost to change each of the activities you recommend modifiying.
+    3. What are the relative merits of crashing activities versus changing the relationships and adding lag time?
+    4. What is the impoact of your recommended changes on the sensitivity of the project?
+    
+Submission Notes:
+    For TaskA, submit two files:
+        "Task A.mpp" which contains MS Project file
+        "Task A.docs" which containing your answers to the questions.
+        
+    FOr TaskB, submit two files:
+        "Task B.mpp" which contains MS Project file
+        "Task B.docs" which containing your answers to the questions.
+        
+Submit all four files in a compreessed (zip) file named "project "        
+        
